@@ -9,5 +9,3 @@ I will be sharing my travels in the US and abroad  with you.
 
 I also Love to try new and exciting recepies.  and i will be adding them to my recipie page.
 
-
-![undefined](/files/tumblr_npa7ksI5vy1ssby0io1_540.gif)
