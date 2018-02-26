@@ -23,10 +23,11 @@ collections:
   - name: "about"
     label: "About"
     folder: "src/pages/about"
-    create: false
+    create: true
     slug: "{{slug}}"
     fields:
       - {label: "Content Type", name: "contentType", widget: "hidden", default: "about"}
       - {label: "Path", name: "path", widget: "hidden", default: "/about"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Attachment", name: "attachments", widget: "list", fields: [{name: "filename", label: "Filename", widget: "file"}] }
